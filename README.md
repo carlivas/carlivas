@@ -1,11 +1,11 @@
 # Hey, I'm Carl! 👋
-
 **MSc in Computational Physics** with a background in mathematical and theoretical physics, specialized in computational modeling and simulation of complex physical systems. I'm passionate about developing scientific software for sustainability-focused projects 🌍.
 
-During my studies, I've simulated a great variety of systems - from forest ecosystems 🌲 to black holes 🕳️ - and developed expertise in data science and machine learning applications 📊. When I'm not solving problems or coding, you'll probably find me playing or producing music 🎵.
+During my studies, I've simulated a great variety of systems - from forest ecosystems 🌲 to black holes 🕳️ - and developed expertise in data science and machine learning applications 📊.
+
+When I'm not solving problems or coding, you'll probably find me playing or producing music 🎵.
 
 ## 📚 Projects
-
 ### 🌳 [Forest Ecosystem Stability](https://github.com/carlivas/Forest-Ecosystem-Stability.git) 
 My master's thesis investigating critical transitions in forest ecosystems using agent-based models. I developed algorithms to simulate forest ecosystems and then used statististical data analysis to detect early warning signals of ecosystem collapse by analyzing critical slowing down phenomena. The research explores how spatial feedback mechanisms affect forest resilience and when classical tipping point theory applies to complex ecological systems.
 
