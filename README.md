@@ -25,6 +25,6 @@ Various physics simulations and hobby projects.
 
 Feel free to reach out!
 
-📧 [Email](carlaskehave@outlook.com)
+@ carlaskehave@outlook.com
 
 💼 [LinkedIn](www.linkedin.com/in/carl-ivarsen-askehave-822b27214)
