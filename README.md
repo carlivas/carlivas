@@ -13,7 +13,7 @@ My master's thesis investigating critical transitions in forest ecosystems using
 My bachelor's project simulating relativistic binary black hole systems using the post-Minkowskian expansion of Einstein's field equations. I implemented numerical methods for ultra-relativistic scattering and bound state analysis, achieving better accuracy than traditional post-Newtonian approximations for predicting orbital precession and scattering angles in extreme gravitational regimes.
 
 ### 🏥 [The Ward Project]()
-*For reasons of confidentiality and patient data security, as stipulated by the NDA, the code for the ward project is not publicly available.*
+*For reasons of confidentiality and patient data security the code for the ward project is not publicly available.*
 
 The Ward Project was a collaborative research project bewteen clinicians and physicists at Rigshospitalet and the University of Copenhagen with the goal of developing machine learning models to predict patient complications ("serious adverse events" (SAE)) better than currently available methods.
 
