@@ -13,10 +13,10 @@ During my studies, I've simulated a great variety of systems - from forest ecosy
 
 ## My projects
 
-### 🌳 [Forest Ecosystem Stability](link-to-repo) 
+### 🌳 [Forest Ecosystem Stability](https://github.com/carlivas/Forest-Ecosystem-Stability.git) 
 My master's thesis - simulating when forests might suddenly die off and how to predict it early.
 
-### 🕳️ [Black Hole Orbits](link-to-repo)
+### 🕳️ [Black Hole Orbits](https://github.com/carlivas/Binary-Black-Hole-Orbitals.git)
 Bachelor's project where I simulated binary black holes using Einstein's gravity equations.
 
 ### 🏥 [Medical Machine Learning]()
@@ -30,4 +30,6 @@ Various physics simulations and hobby projects.
 -->
 ---
 
-Feel free to reach out! 📧 carlaskehave@outlook.com
+Feel free to reach out!
+📧 [Email](carlaskehave@outlook.com)
+💼 [LinkedIn](www.linkedin.com/in/carl-ivarsen-askehave-822b27214)
