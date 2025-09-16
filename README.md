@@ -4,7 +4,7 @@
 
 During my studies, I've simulated a great variety of systems - from forest ecosystems 🌲 to black holes 🕳️ - and developed expertise in data science 📊 and machine learning applications in physics and healthcare. When I'm not coding, you'll probably find me producing or playing music 🎵.
 
-## My projects
+## 📚 Projects
 
 ### 🌳 [Forest Ecosystem Stability](https://github.com/carlivas/Forest-Ecosystem-Stability.git) 
 My master's thesis - simulating when forests might suddenly die off and how to predict it early.
