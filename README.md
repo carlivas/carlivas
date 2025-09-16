@@ -19,8 +19,8 @@ My master's thesis - simulating when forests might suddenly die off and how to p
 ### 🕳️ [Black Hole Orbits](https://github.com/carlivas/Binary-Black-Hole-Orbitals.git)
 Bachelor's project where I simulated binary black holes using Einstein's gravity equations.
 
-### 🏥 [Medical Machine Learning]()
-Helping doctors predict patient complications better (collaboration between Rigshospitalet and the University of Copenhagen).
+### 🏥 [The Ward Project]()
+Developing machine learning models to predict patient complications ("serious adverse events" (SAE)) better than currently available methods. The Ward Project was a collaborative research project bewteen clinicians and physicists at Rigshospitalet and the University of Copenhagen.
 
 *For reasons of confidentiality and patient data security, as stipulated by the NDA, the code for the ward project is not publicly available.*
 
