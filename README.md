@@ -13,7 +13,7 @@ During my studies, I've simulated a great variety of systems - from forest ecosy
 
 ## My projects
 
-### 🌲 [Forest Ecosystem Stability](link-to-repo) 
+### 🌳 [Forest Ecosystem Stability](link-to-repo) 
 My master's thesis - simulating when forests might suddenly die off and how to predict it early.
 
 ### 🕳️ [Black Hole Orbits](link-to-repo)
