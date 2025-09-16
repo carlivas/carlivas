@@ -15,7 +15,7 @@ My bachelor's project simulating relativistic binary black hole systems using th
 ### 🏥 [The Ward Project]()
 *For reasons of confidentiality and patient data security, as stipulated by the NDA, the code for the ward project is not publicly available.*
 
-Developing machine learning models to predict patient complications ("serious adverse events" (SAE)) better than currently available methods. The Ward Project was a collaborative research project bewteen clinicians and physicists at Rigshospitalet and the University of Copenhagen.
+The Ward Project was a collaborative research project bewteen clinicians and physicists at Rigshospitalet and the University of Copenhagen with the goal of developing machine learning models to predict patient complications ("serious adverse events" (SAE)) better than currently available methods.
 
 <!--
 ### 🎲 [Other stuff](link-to-projects)
