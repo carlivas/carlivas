@@ -19,8 +19,9 @@ My master's thesis - simulating when forests might suddenly die off and how to p
 ### 🕳️ [Black Hole Orbits](link-to-repo)
 Bachelor's project where I simulated binary black holes using Einstein's gravity equations.
 
-### 🏥 [Medical Machine Learning]
+### 🏥 [Medical Machine Learning]()
 Helping doctors predict patient complications better (collaboration between Rigshospitalet and the University of Copenhagen).
+
 *For reasons of confidentiality and patient data security, as stipulated by the NDA, the code for the ward project is not publicly available.*
 
 <!--
