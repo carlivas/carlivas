@@ -9,7 +9,7 @@ When I'm not solving problems or coding, you'll probably find me playing or prod
 ### 🌳 [Forest Ecosystem Stability](https://github.com/carlivas/Forest-Ecosystem-Stability.git) 
 My master's thesis investigating critical transitions in forest ecosystems using agent-based models. I developed algorithms to simulate forest ecosystems and then used statististical data analysis to detect early warning signals of ecosystem collapse by analyzing critical slowing down phenomena. The research explores how spatial feedback mechanisms affect forest resilience and when classical tipping point theory applies to complex ecological systems.
 
-### 🧊 [Glacial Interglacial Cycles](https://github.com/carlivas/Glacial-Cycle-Models.git)
+### 🧊 [Glacial-Interglacial Cycles](https://github.com/carlivas/Glacial-Cycle-Models.git)
 A Python framework for simulating glacial-interglacial cycles inspired by Paillard’s 1998 models. Includes state-based and ice-volume-based formulations, a flexible simulation engine, and utilities for analyzing threshold-driven transitions in paleoclimate dynamics.
 
 ### 🕳️ [Binary Black Hole Orbits](https://github.com/carlivas/Binary-Black-Hole-Orbitals.git)
